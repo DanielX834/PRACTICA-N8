@@ -210,7 +210,7 @@ Para ejecutar este flow, es necesario lo siguiente
 
 5.En la configuracion del **JSON** lo seleccionamos y en la parte de **action** se despelgaran unas opciones en donde colocaremos **always convert JavaScript Object**
 
-![](https://github.com/DanielX834/PRACTICA-N8/blob/main/6.jpg?raw=true
+![](https://github.com/DanielX834/PRACTICA-N8/blob/main/6.jpg?raw=true)
 
 6. Se colocaran dos function. En el primer function se colocara el mobre de **TEMPERATURA** y posteriormente se pondra el siguiente codigo
 
