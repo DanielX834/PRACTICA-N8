@@ -237,11 +237,9 @@ return msg;
 9. Los que estan conectados a la funcion de temperatura los configuramos de la siguiente manera.
 
 *Gauge*
-
 ![](https://github.com/DanielX834/PRACTICA-N8/blob/main/10.jpg?raw=true)
 
 *Chart*
-
 ![](https://github.com/DanielX834/PRACTICA-N8/blob/main/11.jpg?raw=true)
 
 12. Los que estan conectados a la funcion de humedad los configuramos de esta manera.
@@ -265,6 +263,12 @@ return msg;
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial y la interfaz como se muestra en las siguentes imagenes.
-![](
-![](
 
+![](https://github.com/DanielX834/PRACTICA-N8/blob/main/15.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N8/blob/main/16.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N8/blob/main/17.jpg?raw=true)
+
+# Créditos
+Desarrollado por Ing. Daniel Armenta
